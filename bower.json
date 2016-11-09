@@ -1,0 +1,22 @@
+{
+  "name": "DemoAngular",
+  "description": "Curso",
+  "main": "",
+  "authors": [
+    "Martha Lucia"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
